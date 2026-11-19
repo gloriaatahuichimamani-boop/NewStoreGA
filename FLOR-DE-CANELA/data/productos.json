@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "nombre": "Café Americano",
+    "descripcion": "Café intenso preparado con espresso y agua caliente.",
+    "precio": 12,
+    "categoria": "Cafés calientes",
+    "stock": 20,
+    "imagen": "img/producto1.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Capuchino",
+    "descripcion": "Espresso con leche vaporizada y espuma cremosa.",
+    "precio": 18,
+    "categoria": "Cafés calientes",
+    "stock": 15,
+    "imagen": "img/producto2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Latte de Vainilla",
+    "descripcion": "Café con leche y un toque dulce de vainilla.",
+    "precio": 20,
+    "categoria": "Cafés calientes",
+    "stock": 12,
+    "imagen": "img/producto3.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Mocaccino",
+    "descripcion": "Combinación de café, leche y chocolate.",
+    "precio": 22,
+    "categoria": "Cafés calientes",
+    "stock": 8,
+    "imagen": "img/producto4.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Chocolate Caliente",
+    "descripcion": "Chocolate cremoso ideal para días fríos.",
+    "precio": 16,
+    "categoria": "Bebidas calientes",
+    "stock": 10,
+    "imagen": "img/producto5.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Té de Canela",
+    "descripcion": "Infusión aromática de canela natural.",
+    "precio": 10,
+    "categoria": "Bebidas calientes",
+    "stock": 18,
+    "imagen": "img/producto6.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Frappé de Café",
+    "descripcion": "Bebida fría de café con hielo y crema.",
+    "precio": 24,
+    "categoria": "Bebidas frías",
+    "stock": 7,
+    "imagen": "img/producto7.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Limonada",
+    "descripcion": "Limonada fresca preparada al momento.",
+    "precio": 14,
+    "categoria": "Bebidas frías",
+    "stock": 0,
+    "imagen": "img/producto8.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Té Helado",
+    "descripcion": "Té frío con un toque de limón.",
+    "precio": 13,
+    "categoria": "Bebidas frías",
+    "stock": 9,
+    "imagen": "img/producto9.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Cheesecake",
+    "descripcion": "Porción de pastel de queso con base de galleta.",
+    "precio": 25,
+    "categoria": "Repostería",
+    "stock": 6,
+    "imagen": "img/producto10.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Brownie",
+    "descripcion": "Brownie de chocolate suave por dentro.",
+    "precio": 15,
+    "categoria": "Repostería",
+    "stock": 14,
+    "imagen": "img/producto11.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Rollito de Canela",
+    "descripcion": "Masa suave con canela y glaseado.",
+    "precio": 18,
+    "categoria": "Repostería",
+    "stock": 4,
+    "imagen": "img/producto12.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Croissant",
+    "descripcion": "Pan de hojaldre dorado y crujiente.",
+    "precio": 12,
+    "categoria": "Panadería",
+    "stock": 11,
+    "imagen": "img/producto13.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Sándwich de Pollo",
+    "descripcion": "Sándwich con pollo, lechuga y tomate.",
+    "precio": 28,
+    "categoria": "Panadería",
+    "stock": 5,
+    "imagen": "img/producto14.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Galletas de Avena",
+    "descripcion": "Galletas caseras con avena y canela.",
+    "precio": 8,
+    "categoria": "Repostería",
+    "stock": 0,
+    "imagen": "img/producto15.jpg"
+  }
+]
